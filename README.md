@@ -1,16 +1,16 @@
-`‚â‚è•û`
-‡@text.txt‚É“Ç‚Ü‚¹‚½‚¢•¶Žš‚ð‘‚­
-‡Atts.js‚ðƒ_ƒuƒ‹ƒNƒŠƒbƒN‚Å‹N“®
-‡BuDone!v‚Æ•\Ž¦‚³‚ê‚ê‚ÎOKItext.wav‚ª¶¬‚³‚ê‚é‚Ì‚ÅŠm”F
+# ã‚„ã‚Šæ–¹  
+â‘ text.txtã«èª­ã¾ã›ãŸã„æ–‡å­—ã‚’æ›¸ã  
+â‘¡tts.jsã‚’ãƒ€ãƒ–ãƒ«ã‚¯ãƒªãƒƒã‚¯ã§èµ·å‹•  
+â‘¢ã€ŒDone!ã€ã¨è¡¨ç¤ºã•ã‚Œã‚Œã°OKï¼text.wavãŒç”Ÿæˆã•ã‚Œã‚‹ã®ã§ç¢ºèª  
 
-`’ˆÓ`
-E‰üs‚µ‚Ä‚àOK
-Etext.txt‚ÌŒ`Ž®‚ÍAShift-JIS CR+LF
-Etts.Rate‚Ì’l‚ð•ÏX‚·‚é‚±‚Æ‚ÅC‘¬“x‚ª•Ï‚¦‚ç‚ê‚éDiÅ’xF-10CÅ‘¬F10j
+# æ³¨æ„
+ãƒ»æ”¹è¡Œã—ã¦ã‚‚OK  
+ãƒ»text.txtã®å½¢å¼ã¯ã€Shift-JIS CR+LF  
+ãƒ»tts.Rateã®å€¤ã‚’å¤‰æ›´ã™ã‚‹ã“ã¨ã§ï¼Œé€Ÿåº¦ãŒå¤‰ãˆã‚‰ã‚Œã‚‹ï¼Žï¼ˆæœ€é…ï¼š-10ï¼Œæœ€é€Ÿï¼š10ï¼‰  
 
-`ƒgƒ‰ƒuƒ‹ƒVƒ…[ƒeƒBƒ“ƒO`
-QDtts.js‚ð‹N“®‚µ‚½Žž‚ÉuƒI[ƒgƒ[ƒVƒ‡ƒ“‚Ì‘€ì’†‚Éƒtƒ@ƒCƒ‹–¼‚Ü‚½‚ÍƒNƒ‰ƒX–¼‚ðŒ©‚Â‚¯‚ç‚ê‚Ü‚¹‚ñ‚Å‚µ‚½Bv‚Æ•\Ž¦‚³‚ê‚éB
-ADtext.wav‚ªŠJ‚«‚Á‚Ï‚È‚µ‚Å‚Í‚ ‚è‚Ü‚¹‚ñ‚©H
+# ãƒˆãƒ©ãƒ–ãƒ«ã‚·ãƒ¥ãƒ¼ãƒ†ã‚£ãƒ³ã‚°  
+Qï¼Žtts.jsã‚’èµ·å‹•ã—ãŸæ™‚ã«ã€Œã‚ªãƒ¼ãƒˆãƒ¡ãƒ¼ã‚·ãƒ§ãƒ³ã®æ“ä½œä¸­ã«ãƒ•ã‚¡ã‚¤ãƒ«åã¾ãŸã¯ã‚¯ãƒ©ã‚¹åã‚’è¦‹ã¤ã‘ã‚‰ã‚Œã¾ã›ã‚“ã§ã—ãŸã€‚ã€ã¨è¡¨ç¤ºã•ã‚Œã‚‹ã€‚  
+Aï¼Žtext.wavãŒé–‹ãã£ã±ãªã—ã§ã¯ã‚ã‚Šã¾ã›ã‚“ã‹ï¼Ÿ  
 
-`ƒƒ‚`
+# ãƒ¡ãƒ¢  
 CScript tts.js
